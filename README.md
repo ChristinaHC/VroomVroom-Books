@@ -14,7 +14,7 @@
 
   ## Screenshot of Deployed Application
 
-  
+  ![image](https://user-images.githubusercontent.com/92480050/161351378-39503084-df20-45ac-8d4c-999c700aeb7c.png)
 
   ## Link to Deployed Application
 
@@ -26,7 +26,7 @@
 
   ### Usage
 
-  * 
+  * Users simply need to go to the deployed page to search for whatever book they like. Users can also save their searches and later view them on the See Your Books page.
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
@@ -38,7 +38,7 @@
 
   ### Tests
 
-  * N/A
+  * No tests!
 
   ### Further Questions?
 
